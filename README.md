@@ -1,32 +1,65 @@
----
+# Personal Portfolio Website
 
-# Basic HTML Website
+A clean, simple personal portfolio website built with HTML and CSS. This project showcases a minimalist design approach with focus on content readability and semantic structure.
 
-This project focuses on creating a simple, multi-page website using only HTML. The goal is to learn how to structure a website semantically and prepare it for future styling and SEO enhancements.
+## Project Overview
+
+This is a personal portfolio website for Younes Moukhlij, a Frontend Developer. The website features a clean wireframe-inspired design that emphasizes simplicity and content over decorative elements.
+
+## Features
+
+- **Clean Design**: Minimalist layout with wireframe-style aesthetics
+- **Responsive Layout**: Works seamlessly across desktop and mobile devices
+- **Semantic HTML**: Properly structured HTML5 with semantic elements
+- **Simple CSS**: Clean, readable CSS without unnecessary complexity
+- **Multi-page Structure**: Four main pages with consistent navigation
 
 ## Project Structure
 
-Your website should include the following pages:
+The website includes the following pages:
 
-[subject](https://roadmap.sh/projects/basic-html-website)
+* `index.html` - Homepage showcasing personal information, projects, work experience, education, and testimonials
+* `projects.html` - Portfolio of development projects and work samples
+* `articles.html` - Blog-style articles about web development topics
+* `contact.html` - Contact form for inquiries and communication
 
-* `index.html` (Homepage)
-* `projects.html`
-* `articles.html`
-* `contact.html`([roadmap.sh][1], [roadmap.sh][2])
+## Technical Implementation
 
-Each page should have:
+- **HTML5**: Semantic markup with proper document structure
+- **CSS3**: Clean, minimal styling with flexbox and grid layouts
+- **Responsive Design**: Mobile-first approach with media queries
+- **Cross-browser Compatibility**: Works across modern web browsers
+- **SEO Optimized**: Proper meta tags and semantic structure
 
-* A navigation bar linking to all pages
-* Semantic HTML structure (using appropriate tags like `<header>`, `<footer>`, `<nav>`, `<main>`, `<section>`, and `<article>`)
-* SEO meta tags in the `<head>` section
-* A contact form on `contact.html` with fields for name, email, and message
+## Design Philosophy
 
-## Learning Objectives
+The design follows a wireframe aesthetic that prioritizes:
+- Content readability
+- Simple navigation
+- Clean typography
+- Minimal color palette
+- Consistent spacing and layout
 
-* Understand how to create multiple pages in a website
-* Structure a website using semantic HTML
-* Prepare a website for future styling with CSS
-* Implement basic SEO meta tags
-* Create a functional contact form([roadmap.sh][3], [roadmap.sh][4], [Powerslides][5])
+## Pages Overview
+
+### Homepage
+- Personal introduction and professional summary
+- Three-column layout showcasing projects, experience, and education
+- Testimonials section with teacher reviews
+
+### Projects
+- Showcase of development projects including:
+  - HTML Only Portfolio
+  - Calculator Application
+  - Quiz App
+  - Countdown Timer
+  - Product Landing Page
+
+### Articles
+- Technical blog posts covering web development topics
+- Article dates and structured content layout
+
+### Contact
+- Simple contact form with name, email, and message fields
+- Clean form styling and user-friendly interface
 
