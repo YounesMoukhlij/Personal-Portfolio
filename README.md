@@ -2,9 +2,7 @@
 
 A clean, simple personal portfolio website built with HTML and CSS. This project showcases a minimalist design approach with focus on content readability and semantic structure.
 
-## Project Overview
-
-This is a personal portfolio website for Younes Moukhlij, a Frontend Developer. The website features a clean wireframe-inspired design that emphasizes simplicity and content over decorative elements.
+[Roadmap Subjet](https://roadmap.sh/projects/portfolio-website)
 
 ## Features
 
